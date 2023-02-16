@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Summer 2021 DREU Project Site
+title: CoVisualize Eating Disorders Project
 ---
 
 * TOC
@@ -16,7 +16,7 @@ Mentor info goes here.
 
 ## About My Project
 
-Project description goes here.
+This project is meant to raise awareness about eating disorders across various backgrounds regarding race, gender, sexual orientation, disability status, and more. Additionally, we are smashing myths about eating disorders, and discussing contributing factors and signs of eating disorders.
 
 [My Final Report](files/finalreport.pdf)
 
